@@ -32,32 +32,32 @@
     {
      "principalId": "9b38f376-5ada-45b2-b410-9a534c5be87c",
      "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
-     "principalIdDisplayName": "Managed Azure - Engineers"
+     "principalIdDisplayName": "ALH - Managed Azure Engineers"
     },
     {
      "principalId": "9b38f376-5ada-45b2-b410-9a534c5be87c",
      "roleDefinitionId": "91c1777a-f3dc-4fae-b103-61d183457e46",
-     "principalIdDisplayName": "Managed Azure - Engineers"
+     "principalIdDisplayName": "ALH - Managed Azure Engineers"
     },
     {
      "principalId": "9b38f376-5ada-45b2-b410-9a534c5be87c",
      "roleDefinitionId": "cfd33db0-3dd1-45e3-aa9d-cdbdf3b6f24e",
-     "principalIdDisplayName": "Managed Azure - Engineers"
+     "principalIdDisplayName": "ALH - Managed Azure Engineers"
     },
     {
      "principalId": "70cfdec7-26ef-469e-8def-a22ff5fdc740",
      "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
-     "principalIdDisplayName": "Managed Azure - Services"
+     "principalIdDisplayName": "ALH - Managed Azure Services"
     },
     {
      "principalId": "70cfdec7-26ef-469e-8def-a22ff5fdc740",
      "roleDefinitionId": "cfd33db0-3dd1-45e3-aa9d-cdbdf3b6f24e",
-     "principalIdDisplayName": "Managed Azure - Services"
+     "principalIdDisplayName": "ALH - Managed Azure Services"
     },
     {
      "principalId": "42271f95-28c9-4c0d-8c8f-7389401b38f9",
      "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
-     "principalIdDisplayName": "Managed Azure - Service Delivery Managers"
+     "principalIdDisplayName": "ALH - Managed Azure Service Delivery Managers"
     }
    ]
   },
@@ -74,12 +74,12 @@
       "managedByTenantApprovers": [
        {
         "principalId": "324d18b4-db82-43a8-b400-c610b9c36b51",
-        "principalIdDisplayName": "Managed Azure - PIM Approvers"
+        "principalIdDisplayName": "PIM - Managed Azure (Approvers)"
        }
       ]
      },
      "principalId": "9b38f376-5ada-45b2-b410-9a534c5be87c",
-     "principalIdDisplayName": "Managed Azure - Engineers",
+     "principalIdDisplayName": "ALH - Managed Azure Engineers",
      "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
     }
    ]
