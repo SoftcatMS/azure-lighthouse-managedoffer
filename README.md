@@ -5,15 +5,15 @@ The following permissions are included in this lighthouse offer.
 
 # Delegated Permissions
 
-| User/Group                                | Delegated Permission                                 | Access Type | Max Duration | MFA   | Approvers                      |
-| ----------------------------------------- | ---------------------------------------------------- | ----------- | ------------ | ---   | ------------------------------ |
-| Managed Azure - Engineers                 | Reader                                               | Permanent   | -            | -     | -                              |
-| Managed Azure - Engineers                 | Support Request Contributor                          | Permanent   | -            | -     | -                              |
-| Managed Azure - Engineers                 | Managed Services Registration Assignment Delete Role | Permanent   | -            | -     | -                              |
-| Managed Azure - Engineers                 | Contributor                                          | Eligible    | 4 hours      | Azure | PIM - Managed Azure (Approvers)|
-| Managed Azure - Service Delivery Managers | Reader                                               | Permanent   | -            | -     | -                              |
-| Managed Azure - Services                  | Reader                                               | Permanent   | -            | -     | -                              |
-| Managed Azure - Services                  | Support Request Contributor                          | Permanent   | -            | -     | -                              |
+| User/Group                                    | Delegated Permission                                 | Access Type | Max Duration | MFA   | Approvers                      |
+| --------------------------------------------- | ---------------------------------------------------- | ----------- | ------------ | ---   | ------------------------------ |
+| ALH - Managed Azure Engineers                 | Reader                                               | Permanent   | -            | -     | -                              |
+| ALH - Managed Azure Engineers                 | Support Request Contributor                          | Permanent   | -            | -     | -                              |
+| ALH - Managed Azure Engineers                 | Managed Services Registration Assignment Delete Role | Permanent   | -            | -     | -                              |
+| ALH - Managed Azure Engineers                 | Contributor                                          | Eligible    | 4 hours      | Azure | PIM - Managed Azure (Approvers)|
+| ALH - Managed Azure Service Delivery Managers | Reader                                               | Permanent   | -            | -     | -                              |
+| ALH - Managed Azure Services                  | Reader                                               | Permanent   | -            | -     | -                              |
+| ALH - Managed Azure Services                  | Support Request Contributor                          | Permanent   | -            | -     | -                              |
 
 # Deploy to Azure 
 
