@@ -81,7 +81,22 @@
      "principalId": "9b38f376-5ada-45b2-b410-9a534c5be87c",
      "principalIdDisplayName": "ALH - Managed Azure Engineers",
      "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
-    }
+    },
+    {
+        "justInTimeAccessPolicy": {
+         "multiFactorAuthProvider": "Azure",
+         "maximumActivationDuration": "PT4H",
+         "managedByTenantApprovers": [
+          {
+           "principalId": "324d18b4-db82-43a8-b400-c610b9c36b51",
+           "principalIdDisplayName": "PIM - Managed Azure (Approvers)"
+          }
+         ]
+        },
+        "principalId": "9b38f376-5ada-45b2-b410-9a534c5be87c",
+        "principalIdDisplayName": "ALH - Managed Azure Engineers",
+        "roleDefinitionId": "36243c78-bf99-498c-9df9-86d9f8d28608"
+       }
    ]
   }
  },
